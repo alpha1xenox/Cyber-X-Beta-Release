@@ -36,25 +36,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['919776517392'] //ur owner number
-global.ownername = "⚡SOUMYA⚡" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
+global.vcardowner = ['989196681358'] //ur owner number
+global.ownername = "JIA 💜" //ur owner name
+global.ytname = "YT: SG GAMING" //ur yt chanel name
 global.socialm = "Insta : Itz_soumya_s14" //ur github or insta name
 global.location = "Mars,Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['919776517392']
-global.ownertag = '919776517392' //ur tag number
-global.botname = 'ALPHA-X' //ur bot name
+global.owner = ['989196681358']
+global.ownertag = '989196681358' //ur tag number
+global.botname = 'JIA' //ur bot name
 global.ig = "https://www.instagram.com/Itz_soumya_s14/" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/alpha1xenox' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🚀" //ur theme emoji
-global.packname = "ALPHA-X" //ur sticker watermark packname
-global.author = "LORD ALPHA" //ur sticker watermark author
-global.aliveimg ="https://ibb.co/HqQkmP2"
+global.packname = "JIA 💜" //ur sticker watermark packname
+global.author = "💝" //ur sticker watermark author
+global.aliveimg ="https://telegra.ph/file/98c6e7ee73ee3827dcb4e.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
@@ -67,7 +67,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['919776517392'] //ADD YOU NUMBER
+global.premium = ['989196681358'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
